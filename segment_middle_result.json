@@ -1,0 +1,1109 @@
+[
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "91,50",
+                    "elapsedTime": 91,
+                    "metadata": {
+                        "x": 91,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "91,50",
+                    "elapsedTime": 91,
+                    "metadata": {
+                        "x": 91,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "102,30",
+                    "elapsedTime": 102,
+                    "metadata": {
+                        "x": 102,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "111,30",
+                    "elapsedTime": 111,
+                    "metadata": {
+                        "x": 111,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "122,60",
+                    "elapsedTime": 122,
+                    "metadata": {
+                        "x": 122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "722,50",
+                    "elapsedTime": 722,
+                    "metadata": {
+                        "x": 722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "1322,50",
+                    "elapsedTime": 1322,
+                    "metadata": {
+                        "x": 1322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "1922,30",
+                    "elapsedTime": 1922,
+                    "metadata": {
+                        "x": 1922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "2522,30",
+                    "elapsedTime": 2522,
+                    "metadata": {
+                        "x": 2522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "3122,60",
+                    "elapsedTime": 3122,
+                    "metadata": {
+                        "x": 3122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "3722,50",
+                    "elapsedTime": 3722,
+                    "metadata": {
+                        "x": 3722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "4322,50",
+                    "elapsedTime": 4322,
+                    "metadata": {
+                        "x": 4322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "4922,30",
+                    "elapsedTime": 4922,
+                    "metadata": {
+                        "x": 4922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "5522,30",
+                    "elapsedTime": 5522,
+                    "metadata": {
+                        "x": 5522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "6122,60",
+                    "elapsedTime": 6122,
+                    "metadata": {
+                        "x": 6122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "6722,50",
+                    "elapsedTime": 6722,
+                    "metadata": {
+                        "x": 6722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "7322,50",
+                    "elapsedTime": 7322,
+                    "metadata": {
+                        "x": 7322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "7922,30",
+                    "elapsedTime": 7922,
+                    "metadata": {
+                        "x": 7922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "8522,30",
+                    "elapsedTime": 8522,
+                    "metadata": {
+                        "x": 8522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "9122,60",
+                    "elapsedTime": 9122,
+                    "metadata": {
+                        "x": 9122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "9722,50",
+                    "elapsedTime": 9722,
+                    "metadata": {
+                        "x": 9722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "10322,50",
+                    "elapsedTime": 10322,
+                    "metadata": {
+                        "x": 10322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "10922,30",
+                    "elapsedTime": 10922,
+                    "metadata": {
+                        "x": 10922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "11522,30",
+                    "elapsedTime": 11522,
+                    "metadata": {
+                        "x": 11522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "12122,60",
+                    "elapsedTime": 12122,
+                    "metadata": {
+                        "x": 12122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "12722,50",
+                    "elapsedTime": 12722,
+                    "metadata": {
+                        "x": 12722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "13322,50",
+                    "elapsedTime": 13322,
+                    "metadata": {
+                        "x": 13322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "13922,30",
+                    "elapsedTime": 13922,
+                    "metadata": {
+                        "x": 13922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "14522,30",
+                    "elapsedTime": 14522,
+                    "metadata": {
+                        "x": 14522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "15122,60",
+                    "elapsedTime": 15122,
+                    "metadata": {
+                        "x": 15122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "15722,50",
+                    "elapsedTime": 15722,
+                    "metadata": {
+                        "x": 15722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "16322,50",
+                    "elapsedTime": 16322,
+                    "metadata": {
+                        "x": 16322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "16922,30",
+                    "elapsedTime": 16922,
+                    "metadata": {
+                        "x": 16922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "17522,30",
+                    "elapsedTime": 17522,
+                    "metadata": {
+                        "x": 17522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "18122,60",
+                    "elapsedTime": 18122,
+                    "metadata": {
+                        "x": 18122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "18722,50",
+                    "elapsedTime": 18722,
+                    "metadata": {
+                        "x": 18722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "19322,50",
+                    "elapsedTime": 19322,
+                    "metadata": {
+                        "x": 19322,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "heartRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "19922,30",
+                    "elapsedTime": 19922,
+                    "metadata": {
+                        "x": 19922,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "breathRateSpots",
+                    "field_type": "FlSpot",
+                    "new_value": "20522,30",
+                    "elapsedTime": 20522,
+                    "metadata": {
+                        "x": 20522,
+                        "y": "30"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "21122,60",
+                    "elapsedTime": 21122,
+                    "metadata": {
+                        "x": 21122,
+                        "y": "60"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fields": [
+            {
+                "MSH": {
+                    "Field Separator": "^~\\&",
+                    "Security": "ADT,A01",
+                    "Message Type": "101",
+                    "Message Control ID": "P",
+                    "Processing ID": "2.3.1"
+                }
+            },
+            {
+                "Mindray_Monitor": {
+                    "surgery_room_id": "1",
+                    "surgery_id": "1000",
+                    "field_name": "spo2Spots",
+                    "field_type": "FlSpot",
+                    "new_value": "21722,50",
+                    "elapsedTime": 21722,
+                    "metadata": {
+                        "x": 21722,
+                        "y": "50"
+                    }
+                }
+            }
+        ]
+    }
+]
